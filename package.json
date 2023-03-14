@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  },
+  "name": "discord-slash-bot",
+  "version": "1.0.0",
+  "description": "discord example bot from discord.js guide",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgshka/Discord-Slash-Bot.git"
+  },
+  "author": "pgshka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pgshka/Discord-Slash-Bot/issues"
+  },
+  "homepage": "https://github.com/pgshka/Discord-Slash-Bot#readme"
+}
