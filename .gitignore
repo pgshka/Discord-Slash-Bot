@@ -110,7 +110,7 @@ dist
 .tern-port
 
 # Etc
-token.js
+token.json
 
 # Volta
 .pnp.cjs
